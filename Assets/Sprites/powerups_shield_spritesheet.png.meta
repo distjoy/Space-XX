@@ -1,0 +1,3712 @@
+fileFormatVersion: 2
+guid: 920bcb7b5c27b4a4187f5ec166ba64b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8018589846982704049
+    second: powerups_shield_spritesheet_0
+  - first:
+      213: 4081830682997883065
+    second: powerups_shield_spritesheet_1
+  - first:
+      213: 3982314962365815105
+    second: powerups_shield_spritesheet_2
+  - first:
+      213: -6858755489094943999
+    second: powerups_shield_spritesheet_3
+  - first:
+      213: 4950095960232804089
+    second: powerups_shield_spritesheet_4
+  - first:
+      213: 1024921635914698662
+    second: powerups_shield_spritesheet_5
+  - first:
+      213: -4535409811940464859
+    second: powerups_shield_spritesheet_6
+  - first:
+      213: -2131288296474579649
+    second: powerups_shield_spritesheet_7
+  - first:
+      213: -2505093504879483778
+    second: powerups_shield_spritesheet_8
+  - first:
+      213: 8723952929877400588
+    second: powerups_shield_spritesheet_9
+  - first:
+      213: -6637233209505547176
+    second: powerups_shield_spritesheet_10
+  - first:
+      213: 3730580547099825794
+    second: powerups_shield_spritesheet_11
+  - first:
+      213: -3882947574367007934
+    second: powerups_shield_spritesheet_12
+  - first:
+      213: 8915569517889945158
+    second: powerups_shield_spritesheet_13
+  - first:
+      213: -9023101712842513677
+    second: powerups_shield_spritesheet_14
+  - first:
+      213: -3549677381772610130
+    second: powerups_shield_spritesheet_15
+  - first:
+      213: -2572524234888558039
+    second: powerups_shield_spritesheet_16
+  - first:
+      213: -8322402917661169825
+    second: powerups_shield_spritesheet_17
+  - first:
+      213: -2135818188400430024
+    second: powerups_shield_spritesheet_18
+  - first:
+      213: -7466905191282459619
+    second: powerups_shield_spritesheet_19
+  - first:
+      213: 8716357976783581033
+    second: powerups_shield_spritesheet_20
+  - first:
+      213: -6510444274850227570
+    second: powerups_shield_spritesheet_21
+  - first:
+      213: -7596268623767654905
+    second: powerups_shield_spritesheet_22
+  - first:
+      213: -1218912341203327208
+    second: powerups_shield_spritesheet_23
+  - first:
+      213: 1414648215899970078
+    second: powerups_shield_spritesheet_24
+  - first:
+      213: 7593620689256362719
+    second: powerups_shield_spritesheet_25
+  - first:
+      213: -8746076956812470085
+    second: powerups_shield_spritesheet_26
+  - first:
+      213: -5403063898993781240
+    second: powerups_shield_spritesheet_27
+  - first:
+      213: 874933131335056755
+    second: powerups_shield_spritesheet_28
+  - first:
+      213: -4564205243071465415
+    second: powerups_shield_spritesheet_29
+  - first:
+      213: -6684406523891177750
+    second: powerups_shield_spritesheet_30
+  - first:
+      213: -253655979520946027
+    second: powerups_shield_spritesheet_31
+  - first:
+      213: -1350781555363801423
+    second: powerups_shield_spritesheet_32
+  - first:
+      213: 44885890196224156
+    second: powerups_shield_spritesheet_33
+  - first:
+      213: -6459334315260142450
+    second: powerups_shield_spritesheet_34
+  - first:
+      213: 978655512673829325
+    second: powerups_shield_spritesheet_35
+  - first:
+      213: 7107557889927676806
+    second: powerups_shield_spritesheet_36
+  - first:
+      213: -2188101721225620442
+    second: powerups_shield_spritesheet_37
+  - first:
+      213: -8149420135384461534
+    second: powerups_shield_spritesheet_38
+  - first:
+      213: -1363353037958895407
+    second: powerups_shield_spritesheet_39
+  - first:
+      213: -6670203121812873228
+    second: powerups_shield_spritesheet_40
+  - first:
+      213: -5597997665697800381
+    second: powerups_shield_spritesheet_41
+  - first:
+      213: -6831787757615349289
+    second: powerups_shield_spritesheet_42
+  - first:
+      213: 8953209653203818583
+    second: powerups_shield_spritesheet_43
+  - first:
+      213: -3288837512700894090
+    second: powerups_shield_spritesheet_44
+  - first:
+      213: -8131685746815101415
+    second: powerups_shield_spritesheet_45
+  - first:
+      213: 8437792449692122222
+    second: powerups_shield_spritesheet_46
+  - first:
+      213: 6455772108361832008
+    second: powerups_shield_spritesheet_47
+  - first:
+      213: 7389277144044543103
+    second: powerups_shield_spritesheet_48
+  - first:
+      213: 970407134806930949
+    second: powerups_shield_spritesheet_49
+  - first:
+      213: 4080964385868412803
+    second: powerups_shield_spritesheet_50
+  - first:
+      213: -2971141378482886757
+    second: powerups_shield_spritesheet_51
+  - first:
+      213: 6523027423230413832
+    second: powerups_shield_spritesheet_52
+  - first:
+      213: -2807309657425614347
+    second: powerups_shield_spritesheet_53
+  - first:
+      213: -4524072078944765237
+    second: powerups_shield_spritesheet_54
+  - first:
+      213: 8792818057648149310
+    second: powerups_shield_spritesheet_55
+  - first:
+      213: 7001919936889618594
+    second: powerups_shield_spritesheet_56
+  - first:
+      213: -2994103758145529473
+    second: powerups_shield_spritesheet_57
+  - first:
+      213: -9116254273728467182
+    second: powerups_shield_spritesheet_58
+  - first:
+      213: 4238483051377547159
+    second: powerups_shield_spritesheet_59
+  - first:
+      213: 4473076437693118181
+    second: powerups_shield_spritesheet_60
+  - first:
+      213: 6866444286720010651
+    second: powerups_shield_spritesheet_61
+  - first:
+      213: 1978394486704145043
+    second: powerups_shield_spritesheet_62
+  - first:
+      213: -1735458012092581365
+    second: powerups_shield_spritesheet_63
+  - first:
+      213: 1749830585868757733
+    second: powerups_shield_spritesheet_64
+  - first:
+      213: 7586862781742330476
+    second: powerups_shield_spritesheet_65
+  - first:
+      213: -1670610746599445418
+    second: powerups_shield_spritesheet_66
+  - first:
+      213: -8767191423712084057
+    second: powerups_shield_spritesheet_67
+  - first:
+      213: 4361957489106276280
+    second: powerups_shield_spritesheet_68
+  - first:
+      213: -75870085329250167
+    second: powerups_shield_spritesheet_69
+  - first:
+      213: 762058235924695583
+    second: powerups_shield_spritesheet_70
+  - first:
+      213: -6127445350969994464
+    second: powerups_shield_spritesheet_71
+  - first:
+      213: -917011388667853903
+    second: powerups_shield_spritesheet_72
+  - first:
+      213: -7396383299096418741
+    second: powerups_shield_spritesheet_73
+  - first:
+      213: -4669929884588619941
+    second: powerups_shield_spritesheet_74
+  - first:
+      213: 7419703992464546481
+    second: powerups_shield_spritesheet_75
+  - first:
+      213: -6866348998060529502
+    second: powerups_shield_spritesheet_76
+  - first:
+      213: -7079180371207631737
+    second: powerups_shield_spritesheet_77
+  - first:
+      213: 8732846192050831968
+    second: powerups_shield_spritesheet_78
+  - first:
+      213: 5584837201491491976
+    second: powerups_shield_spritesheet_79
+  - first:
+      213: -1626274379334612462
+    second: powerups_shield_spritesheet_80
+  - first:
+      213: 5206593776758016044
+    second: powerups_shield_spritesheet_81
+  - first:
+      213: 2322367537474951366
+    second: powerups_shield_spritesheet_82
+  - first:
+      213: 2477894356820040565
+    second: powerups_shield_spritesheet_83
+  - first:
+      213: 456022726907158807
+    second: powerups_shield_spritesheet_84
+  - first:
+      213: 551509571519977935
+    second: powerups_shield_spritesheet_85
+  - first:
+      213: -5929318327661391767
+    second: powerups_shield_spritesheet_86
+  - first:
+      213: 4799146088069082426
+    second: powerups_shield_spritesheet_87
+  - first:
+      213: -2435304474484112270
+    second: powerups_shield_spritesheet_88
+  - first:
+      213: -3636389627700634175
+    second: powerups_shield_spritesheet_89
+  - first:
+      213: -663245896394404990
+    second: powerups_shield_spritesheet_90
+  - first:
+      213: 1187531295253605986
+    second: powerups_shield_spritesheet_91
+  - first:
+      213: 586545866476915916
+    second: powerups_shield_spritesheet_92
+  - first:
+      213: -2322223003340355392
+    second: powerups_shield_spritesheet_93
+  - first:
+      213: -4587773917197600275
+    second: powerups_shield_spritesheet_94
+  - first:
+      213: -1216725991177930867
+    second: powerups_shield_spritesheet_95
+  - first:
+      213: 5167559833983168887
+    second: powerups_shield_spritesheet_96
+  - first:
+      213: 3449119407920841422
+    second: powerups_shield_spritesheet_97
+  - first:
+      213: -8143436441533625375
+    second: powerups_shield_spritesheet_98
+  - first:
+      213: 5360409194093215144
+    second: powerups_shield_spritesheet_99
+  - first:
+      213: 5575256157545757381
+    second: powerups_shield_spritesheet_100
+  - first:
+      213: 7868863712838554318
+    second: powerups_shield_spritesheet_101
+  - first:
+      213: 2150374993642612332
+    second: powerups_shield_spritesheet_102
+  - first:
+      213: -2287279661441916929
+    second: powerups_shield_spritesheet_103
+  - first:
+      213: -418353052563694419
+    second: powerups_shield_spritesheet_104
+  - first:
+      213: 8759719332980781459
+    second: powerups_shield_spritesheet_105
+  - first:
+      213: -7459249598102605260
+    second: powerups_shield_spritesheet_106
+  - first:
+      213: -4682060461994601863
+    second: powerups_shield_spritesheet_107
+  - first:
+      213: -6968484987467905750
+    second: powerups_shield_spritesheet_108
+  - first:
+      213: -5325898141639761840
+    second: powerups_shield_spritesheet_109
+  - first:
+      213: -4643104718545300592
+    second: powerups_shield_spritesheet_110
+  - first:
+      213: -5605200464063300976
+    second: powerups_shield_spritesheet_111
+  - first:
+      213: -2462653097586240375
+    second: powerups_shield_spritesheet_112
+  - first:
+      213: -7961031727874752972
+    second: powerups_shield_spritesheet_113
+  - first:
+      213: -6514216543464716831
+    second: powerups_shield_spritesheet_114
+  - first:
+      213: 3956548785379244575
+    second: powerups_shield_spritesheet_115
+  - first:
+      213: 7809015890663847913
+    second: powerups_shield_spritesheet_116
+  - first:
+      213: -4773356085125573737
+    second: powerups_shield_spritesheet_117
+  - first:
+      213: 2038387959139870028
+    second: powerups_shield_spritesheet_118
+  - first:
+      213: -7902253873410837943
+    second: powerups_shield_spritesheet_119
+  - first:
+      213: 7431287066146147259
+    second: powerups_shield_spritesheet_120
+  - first:
+      213: 5869301785854955703
+    second: powerups_shield_spritesheet_121
+  - first:
+      213: -2436024606970681118
+    second: powerups_shield_spritesheet_122
+  - first:
+      213: 3246544316421808821
+    second: powerups_shield_spritesheet_123
+  - first:
+      213: -8065322757103645785
+    second: powerups_shield_spritesheet_124
+  - first:
+      213: 4299172077984292122
+    second: powerups_shield_spritesheet_125
+  - first:
+      213: 1696004047463246963
+    second: powerups_shield_spritesheet_126
+  - first:
+      213: 7130754727404001577
+    second: powerups_shield_spritesheet_127
+  - first:
+      213: -3281013369006918250
+    second: powerups_shield_spritesheet_128
+  - first:
+      213: 2893252847801862850
+    second: powerups_shield_spritesheet_129
+  - first:
+      213: -3962452920505825597
+    second: powerups_shield_spritesheet_130
+  - first:
+      213: 3589603793988621434
+    second: powerups_shield_spritesheet_131
+  - first:
+      213: -3640658200616819593
+    second: powerups_shield_spritesheet_132
+  - first:
+      213: -7290428225136442177
+    second: powerups_shield_spritesheet_133
+  - first:
+      213: -9187449918178474854
+    second: powerups_shield_spritesheet_134
+  - first:
+      213: 5684035331131106993
+    second: powerups_shield_spritesheet_135
+  - first:
+      213: -6772108196007548325
+    second: powerups_shield_spritesheet_136
+  - first:
+      213: -777994874347054571
+    second: powerups_shield_spritesheet_137
+  - first:
+      213: 3943197553742902955
+    second: powerups_shield_spritesheet_138
+  - first:
+      213: 5968177027962978828
+    second: powerups_shield_spritesheet_139
+  - first:
+      213: -2881777785695145145
+    second: powerups_shield_spritesheet_140
+  - first:
+      213: 6636289648414006128
+    second: powerups_shield_spritesheet_141
+  - first:
+      213: -8371846132213914903
+    second: powerups_shield_spritesheet_142
+  - first:
+      213: 3426793223919315885
+    second: powerups_shield_spritesheet_143
+  - first:
+      213: -4252042418667607515
+    second: powerups_shield_spritesheet_144
+  - first:
+      213: 5775275834814666952
+    second: powerups_shield_spritesheet_145
+  - first:
+      213: -6236312537907656533
+    second: powerups_shield_spritesheet_146
+  - first:
+      213: -5809607780626856336
+    second: powerups_shield_spritesheet_147
+  - first:
+      213: -7694771803174892133
+    second: powerups_shield_spritesheet_148
+  - first:
+      213: -6532517166081915841
+    second: powerups_shield_spritesheet_149
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c431c4ee9b0bc44847b6ae14549bc5
+      internalID: 8018589846982704049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eba53748cc011428b3b35c32d12500
+      internalID: 4081830682997883065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3da3b992e71a9469a1b55f2b8641fc
+      internalID: 3982314962365815105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1666d86cb2a8f684db3c2d0e907d5201
+      internalID: -6858755489094943999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15ef1d60dff37b44b1a7a8562a687f5
+      internalID: 4950095960232804089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e249e35ae7300794da5f6da501d2a726
+      internalID: 1024921635914698662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec89ea37bd23a24fa2fe7e76812fcb4
+      internalID: -4535409811940464859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706e1a2430f7b2d4a93dbef584fc7897
+      internalID: -2131288296474579649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57413be94c1bcb9429acf5f006dbbe1c
+      internalID: -2505093504879483778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1680
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0166e9b041ce94a9119e02eac3a164
+      internalID: 8723952929877400588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d34e948b5a749d41b406ca515cc8b80
+      internalID: -6637233209505547176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681eeda2016f5d14690d1fa3953c09bd
+      internalID: 3730580547099825794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26331fa373e47f4d8b7ea0e2de4f6a3
+      internalID: -3882947574367007934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd9c9192a6c0a440b8132bdf55ed7d6
+      internalID: 8915569517889945158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfab6a81408b8d41b25e0172479f68d
+      internalID: -9023101712842513677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3676e37637e924ba49fc066a06e1c4
+      internalID: -3549677381772610130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4ee8c26d898834799eacef035e84e0
+      internalID: -2572524234888558039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c915b4ec9d3514eb85be10124a65c0
+      internalID: -8322402917661169825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2546bc0fc4081e4cbe5d6b12f036b44
+      internalID: -2135818188400430024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1560
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ebfa108b640ea48a95390a022d8043
+      internalID: -7466905191282459619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb779ef5a4596604b85700353d5fef14
+      internalID: 8716357976783581033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122ca7979ca212745aeb174fa4f0539d
+      internalID: -6510444274850227570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2402e28f20a8dbf4ca87661d6c4b5285
+      internalID: -7596268623767654905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15909a8a97248043b4ffd33ae053888
+      internalID: -1218912341203327208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cb79590c90a2a40b4af946902cbbfe
+      internalID: 1414648215899970078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2549d28ee1a81d94a9934ba81d6682e8
+      internalID: 7593620689256362719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7d0c5aacde04a4ca5bdeab63cc1ed8
+      internalID: -8746076956812470085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94d7486963552e42a6c7bf079cbdfa9
+      internalID: -5403063898993781240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649c498ec2d3adc42921730192ce409f
+      internalID: 874933131335056755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6370640a627d14249944d1a529f739cd
+      internalID: -4564205243071465415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91001b6e605b1f84cb5c0f2f51a547cc
+      internalID: -6684406523891177750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9752ee694957c745abc4738e2ccbee8
+      internalID: -253655979520946027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf34a074df4163245a140d754d60742b
+      internalID: -1350781555363801423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a75f2376ffcebf49b528efb843da81f
+      internalID: 44885890196224156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c75568528910d4eb585cd6cba49ce5
+      internalID: -6459334315260142450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6e9e84e032eee43a1b86efc0d643e4
+      internalID: 978655512673829325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a805b5f5fce1d14499573bb673f6bec
+      internalID: 7107557889927676806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940844f5b5c7b0046b267fbd75fc7159
+      internalID: -2188101721225620442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4759205f126acc64ea1578a765dc3ff5
+      internalID: -8149420135384461534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1320
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96511ecd540f66346a69e56ebe36e6f1
+      internalID: -1363353037958895407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fe2654862c7da4ba6e037ece670013
+      internalID: -6670203121812873228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb554f3bbf5498429807efcbd3ad368
+      internalID: -5597997665697800381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4906189b3eb908e46977847c31232ae6
+      internalID: -6831787757615349289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54da4a3bd16a294459d9e5012466f507
+      internalID: 8953209653203818583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7748342418b34a34090852708a290ab2
+      internalID: -3288837512700894090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f78e0a89c34ceb43855a0d6c3d14414
+      internalID: -8131685746815101415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25e60029437a8c4ab4471b558841184
+      internalID: 8437792449692122222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f36e1cb51b1c8438eea99f9fc5839b
+      internalID: 6455772108361832008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247c36bbbffba2d46889be1ca1102b31
+      internalID: 7389277144044543103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1200
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451e8eddb3e3f444caa83424def68c3f
+      internalID: 970407134806930949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77dc90edc354dd4e8ec7c1fa0566ce4
+      internalID: 4080964385868412803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdee204f78ae4d4798d0e95220bbcd0
+      internalID: -2971141378482886757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ddb2e53bb67174a8906679754ffd44
+      internalID: 6523027423230413832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7253921a67840a042be796522aafcbe0
+      internalID: -2807309657425614347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23a8599a03735446923c0b5dfe5f6cb
+      internalID: -4524072078944765237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f18fc2729e204bad0c62dda42c1a2
+      internalID: 8792818057648149310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d47a3013e614584fbe2dfdd6cd9fbf5
+      internalID: 7001919936889618594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec11277029960c049afcb5fa03585edd
+      internalID: -2994103758145529473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454e16335c6e9134891c5b92ff255626
+      internalID: -9116254273728467182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b656c55e8d07d744b94c4ed9d5d7c410
+      internalID: 4238483051377547159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c1ded1a4a806a41827196ae443adbb
+      internalID: 4473076437693118181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40c4f69f9a658e4a92abb7f80c640c0
+      internalID: 6866444286720010651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab5afc2ab902d244acaf7eee8a3f9d6
+      internalID: 1978394486704145043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95532ff269f79ed4f9a787803ec9334b
+      internalID: -1735458012092581365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed061b079084f1348968b5e979424e3b
+      internalID: 1749830585868757733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6a26434e20baa45895cca61811a036
+      internalID: 7586862781742330476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9844cd22d766a5c408583b646c206a35
+      internalID: -1670610746599445418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a116f61d2a33be4b8a7224f0eeb4296
+      internalID: -8767191423712084057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfe5006e74494d499b2e3ace06a51b7
+      internalID: 4361957489106276280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921ab5f7f79948c48bc29432b4cda975
+      internalID: -75870085329250167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e757ebb1b041c314fae7b259f9f03b9b
+      internalID: 762058235924695583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdcc1d66af42e04bb18c31544e3b921
+      internalID: -6127445350969994464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde51710d19a9e141b6be4adf2720709
+      internalID: -917011388667853903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fd52d0eb3f26e44b943c23d537fca3
+      internalID: -7396383299096418741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa55e2062f28e324193db9222993e68a
+      internalID: -4669929884588619941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ce6c220cf0f204a86bc8f60a46413f
+      internalID: 7419703992464546481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eb40ca4358680449d8d0cbaf7bd27e
+      internalID: -6866348998060529502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b9e9f7851ced14a8fbdc0b5a4d3b34
+      internalID: -7079180371207631737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d1306f5869d4141aea556c981bc929
+      internalID: 8732846192050831968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e5a7a85ffdd1e4db7ff15da06a8d65
+      internalID: 5584837201491491976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7365087a670db8d4b984c1a649b0c5d5
+      internalID: -1626274379334612462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8948e094c4c07b4b9eb482baa875b5d
+      internalID: 5206593776758016044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5329d633ae54eb243bcff0f02384aeea
+      internalID: 2322367537474951366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b032fa111e15bf4a8a3389c3864db7a
+      internalID: 2477894356820040565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23479541fd1d97b4fad0333a1504eda1
+      internalID: 456022726907158807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2d8b65707a1b34cbb76ede6a6e9316
+      internalID: 551509571519977935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dbb46bd3d5b734a8bb43a8950c0d50
+      internalID: -5929318327661391767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e0ae98d8726ff40a5dcc57d6526531
+      internalID: 4799146088069082426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d76fb24cc6d3e45b1f3e6e5e21b3fa
+      internalID: -2435304474484112270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6532fbebb0d6c904c93e798804285109
+      internalID: -3636389627700634175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02bf05a5d9996c49acf9dcce56b7c42
+      internalID: -663245896394404990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e062bf1c6c4bbe749b2ea83a0e4093f5
+      internalID: 1187531295253605986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687b094e1edaa2646bb5eba33d154a6b
+      internalID: 586545866476915916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dce40901ec2f9342ac82b683af8e822
+      internalID: -2322223003340355392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327296b20f56a57488dc83ccb5d6446a
+      internalID: -4587773917197600275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f991fc42a2eb9f4abebbcd24d5d9e7b
+      internalID: -1216725991177930867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd890acb58915fa488408d126d0bdc52
+      internalID: 5167559833983168887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b6916f7edfd44b8fe5bcdab372a80
+      internalID: 3449119407920841422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd604c6648ef2484fa2c34b51c84d820
+      internalID: -8143436441533625375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffa609114833f740bc2c400caf598b3
+      internalID: 5360409194093215144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74b5fa530db38740a2111a690376382
+      internalID: 5575256157545757381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83349f0ae78476d45aaea6a7f591a8e4
+      internalID: 7868863712838554318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be2ccfeccf9eea43bc62c3c39d545e6
+      internalID: 2150374993642612332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0d5dc14827cca47b58abb2c553fd55
+      internalID: -2287279661441916929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c380bcd414e5b498ccdbc19dca9dcc
+      internalID: -418353052563694419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88b4b94a001c034ebedb59ce31480dd
+      internalID: 8759719332980781459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9f54ac9699fb442870b4f6c92a782a
+      internalID: -7459249598102605260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf1b40a6c881614091231c0d32db318
+      internalID: -4682060461994601863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe899640bd9ea2743afc717e5c00f2fa
+      internalID: -6968484987467905750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5deaca68c276c44abb71cf418af966d
+      internalID: -5325898141639761840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd936aeda9f078a48ac47eee5ebd3447
+      internalID: -4643104718545300592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b14950c10fbb7e4dac682e06cc3e383
+      internalID: -5605200464063300976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8331027ff75108b42a52149f4e6a133e
+      internalID: -2462653097586240375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5b19fa5ab1469488a4505dca44a440
+      internalID: -7961031727874752972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2658c3079b9cf469a53a9603599739
+      internalID: -6514216543464716831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9a3c12b18a5a6488952a4a28987e46
+      internalID: 3956548785379244575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edd95dba4595374cb6aecd407eea310
+      internalID: 7809015890663847913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90b3259f0b454e47b4d52d21a4cf30f
+      internalID: -4773356085125573737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90acdc079c2417a48b0489275a4799d5
+      internalID: 2038387959139870028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9916b34c7dd73474ab326e6623eeaa9b
+      internalID: -7902253873410837943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e24280bb1a512244b6328cb364a3846
+      internalID: 7431287066146147259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eb82b23ce76744f9fe43bea44daa7f
+      internalID: 5869301785854955703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad2356c4c9c9dc4583d7ecd367b0f16
+      internalID: -2436024606970681118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e46a743e9fed34ab77f0cc02cf26a6
+      internalID: 3246544316421808821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5700c55e914d9864794181efee70d726
+      internalID: -8065322757103645785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f829b1ee84f663243b6f9b502b0cc5ee
+      internalID: 4299172077984292122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534c8fae9ee008b40afe886230ee2918
+      internalID: 1696004047463246963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87925129bb7311a4c90c3a34c3812ec8
+      internalID: 7130754727404001577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64972559bec310942808c567071bcd86
+      internalID: -3281013369006918250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e0cfdacb262364693b9b918240c0db
+      internalID: 2893252847801862850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f330ce3fb62ce4482a99f64e324348
+      internalID: -3962452920505825597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e32bec71dd69dd479169c3740e49fa3
+      internalID: 3589603793988621434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9152b41312e54145baae377dc44c4ca
+      internalID: -3640658200616819593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c984013f267626447b9186df093e6059
+      internalID: -7290428225136442177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f0ce89cb1c2d949a3d2db70c29f89f
+      internalID: -9187449918178474854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426b45faf3d447b478fca6e22d7aa62a
+      internalID: 5684035331131106993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c437ed80725a9468e58e91e57c4ca2
+      internalID: -6772108196007548325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f993322394edcd34b8f695dcd9740e5b
+      internalID: -777994874347054571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9de2c2a12cfbc4aad29263789bd709
+      internalID: 3943197553742902955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b818949b229a58c469ec74fec423e6b6
+      internalID: 5968177027962978828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b1db7ec7152c54caf5a80a53a164ff
+      internalID: -2881777785695145145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8839dabccb0c30c4fa7018b18fbb2d80
+      internalID: 6636289648414006128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e43a3bd85f464f4db1f50918bd8011f
+      internalID: -8371846132213914903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e90e02458415d04cb54cdff6d55f785
+      internalID: 3426793223919315885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae85caf588bcab94a80f68733c1ccb17
+      internalID: -4252042418667607515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99387e93bb8b77148bbf7aefb20d363d
+      internalID: 5775275834814666952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10229e5980782849a8ee8c83792acfe
+      internalID: -6236312537907656533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a700de2753c38439e72613cbbce13c
+      internalID: -5809607780626856336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca67f44124391e429d46bc8c9727367
+      internalID: -7694771803174892133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_shield_spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0d1032721cd7649af33d48bd5c9d93
+      internalID: -6532517166081915841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ef3b09109a5660042bf38035697a3231
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
