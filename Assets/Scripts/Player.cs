@@ -19,7 +19,7 @@ public class Player : MonoBehaviour
     private int shieldEnableDuration;
     private Rigidbody2D rigidBody;
     private UIManager uIManager;
-
+    public GameObject explosion;
     private AudioManager audioManager;
     void Start()
     {
@@ -90,7 +90,7 @@ public class Player : MonoBehaviour
          {
              if (shieldEnableDuration == 0)
              {
-                // die();   
+                die();   
              }
             Destroy(col.gameObject);
 
@@ -118,9 +118,14 @@ public class Player : MonoBehaviour
 
      void die()
      {
-         Destroy(this.gameObject);
-         //Animate the player explosion
-     }
+        this.gameObject.SetActive(false);
+        GameObject explosionObj = Instantiate(explosion, new Vector3(transform.position.x, transform.position.y, 0), Quaternion.identity);
+        Destroy(explosionObj, 1);
+        Destroy(this.gameObject, 1);
+        FindObjectOfType<AudioManager>().Play("EnemyExplosion");
+        //Animate the player explosion
+
+    }
 
 
     IEnumerator FireLaser()
