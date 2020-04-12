@@ -18,6 +18,7 @@ public class UIManager : MonoBehaviour
     void Start()
     {
         scoreView.text = ""+ 0;
+     
         fuelView.fillAmount = 1f;
     }
 

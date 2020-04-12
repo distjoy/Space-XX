@@ -32,7 +32,7 @@ public class SpawnManager : MonoBehaviour
         elementWidth = (int)Mathf.Ceil(renderer.bounds.size.x);
         spawnCount = screenWidth / elementWidth;
         setupPositions();
-        StartCoroutine("SpawnEnemy");
+       // StartCoroutine("SpawnEnemy");
     }
 
     // Update is called once per frame
