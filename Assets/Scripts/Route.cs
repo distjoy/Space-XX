@@ -40,17 +40,19 @@ public class Route : MonoBehaviour
     public void randomizePositions()
     {
         float x, y;
-        controlPoints[0].position = new Vector2(-553f, Random.Range(563f, 2813f));
+        //
+        float[] startingX = { 2622f, -1626f };
+        controlPoints[0].position = new Vector2(startingX[Random.Range(0,2)], Random.Range(2308f, -1155f));
 
         controlPoints[1].position = new Vector2(Random.Range(-503f, 697f), Random.Range(1013f, 3263f));
 
         controlPoints[2].position = new Vector2(Random.Range(97f, 1697f), Random.Range(-1337f, -187f));
 
-        y = Random.Range(-32f, -837f);
+        y = Random.Range(-32f, -2616f);//
         if(y> -1337f)
-            x = 1697f;
+            x = startingX[Random.Range(0, 2)]; //3185
         else
-            x = Random.Range(-503f, 1697f);
+            x = Random.Range(-1677f, 3185);
         controlPoints[3].position = new Vector2(x,y );
 
         Debug.Log("Route " + controlPoints[0].position);

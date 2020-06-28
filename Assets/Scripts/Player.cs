@@ -19,6 +19,7 @@ public class Player : MonoBehaviour
     private int shieldEnableDuration;
     private Rigidbody2D rigidBody;
     private UIManager uIManager;
+    private SpawnManager spawnManager;
     public GameObject explosion;
     private AudioManager audioManager;
     void Start()
@@ -30,6 +31,7 @@ public class Player : MonoBehaviour
         fuelLevel = MAX_FUEL_LEVEL;
         rigidBody = GetComponent<Rigidbody2D>();
         uIManager =  GameObject.Find("Canvas").GetComponent<UIManager>();
+        spawnManager =  GameObject.Find("SpawnManager").GetComponent<SpawnManager>();
         StartCoroutine("UpdateShieldAndFuel");
         StartCoroutine("FireLaser");
     }
@@ -116,15 +118,20 @@ public class Player : MonoBehaviour
         }
      }
 
+    public void Disable()
+    {
+        this.gameObject.SetActive(false);
+    }
+
      void die()
      {
-        this.gameObject.SetActive(false);
+        Disable();
         GameObject explosionObj = Instantiate(explosion, new Vector3(transform.position.x, transform.position.y, 0), Quaternion.identity);
         Destroy(explosionObj, 1);
         Destroy(this.gameObject, 1);
         FindObjectOfType<AudioManager>().Play("EnemyExplosion");
         //Animate the player explosion
-
+        spawnManager.EndGame();
     }
 
 

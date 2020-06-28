@@ -178,16 +178,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3653095270584927979}
     m_Modifications:
-    - target: {fileID: 169103010165128283, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
-        type: 3}
-      propertyPath: m_Name
-      value: Enemy Child 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 169103010165128283, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
-        type: 3}
-      propertyPath: m_TagString
-      value: EnemyType3
-      objectReference: {fileID: 0}
     - target: {fileID: 169103010165128277, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -246,12 +236,27 @@ PrefabInstance:
     - target: {fileID: 169103010165128277, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 0.7
       objectReference: {fileID: 0}
     - target: {fileID: 169103010165128277, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 169103010165128277, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 169103010165128283, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
+        type: 3}
+      propertyPath: m_Name
+      value: Enemy Child 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 169103010165128283, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
+        type: 3}
+      propertyPath: m_TagString
+      value: EnemyType3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d2492e6f7b13b348831dc437eaaeb6f, type: 3}
@@ -274,16 +279,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3653095270584927979}
     m_Modifications:
-    - target: {fileID: 169103010165128283, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
-        type: 3}
-      propertyPath: m_Name
-      value: Enemy Child 3 (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 169103010165128283, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
-        type: 3}
-      propertyPath: m_TagString
-      value: EnemyType3
-      objectReference: {fileID: 0}
     - target: {fileID: 169103010165128277, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -342,12 +337,27 @@ PrefabInstance:
     - target: {fileID: 169103010165128277, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 0.7
       objectReference: {fileID: 0}
     - target: {fileID: 169103010165128277, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 169103010165128277, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 169103010165128283, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
+        type: 3}
+      propertyPath: m_Name
+      value: Enemy Child 3 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 169103010165128283, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
+        type: 3}
+      propertyPath: m_TagString
+      value: EnemyType3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d2492e6f7b13b348831dc437eaaeb6f, type: 3}
@@ -370,16 +380,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3653095270584927979}
     m_Modifications:
-    - target: {fileID: 169103010165128283, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
-        type: 3}
-      propertyPath: m_Name
-      value: Enemy Child 3 (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 169103010165128283, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
-        type: 3}
-      propertyPath: m_TagString
-      value: EnemyType3
-      objectReference: {fileID: 0}
     - target: {fileID: 169103010165128277, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -438,12 +438,27 @@ PrefabInstance:
     - target: {fileID: 169103010165128277, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 0.7
       objectReference: {fileID: 0}
     - target: {fileID: 169103010165128277, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 169103010165128277, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 169103010165128283, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
+        type: 3}
+      propertyPath: m_Name
+      value: Enemy Child 3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 169103010165128283, guid: 7d2492e6f7b13b348831dc437eaaeb6f,
+        type: 3}
+      propertyPath: m_TagString
+      value: EnemyType3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d2492e6f7b13b348831dc437eaaeb6f, type: 3}

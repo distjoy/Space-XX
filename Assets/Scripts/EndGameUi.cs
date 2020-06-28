@@ -21,12 +21,15 @@ public class EndGameUi : MonoBehaviour
     [SerializeField]
     private GameObject backBtn;
     private int stage = 0;
+    private int totalPoints = 0;
+
+    public int TotalPoints { get => totalPoints; set => totalPoints = value; }
 
     private void Start()
     {
-        animate();
+   
     }
-    public void animate()
+    public void Animate()
     {
 
         switch (stage)
@@ -57,7 +60,7 @@ public class EndGameUi : MonoBehaviour
                 {
                     ScoreAnimator scoreAnim = scoreView.GetComponent<ScoreAnimator>();
                     if (scoreAnim != null)
-                        scoreAnim.setPoints(560);
+                        scoreAnim.setPoints(totalPoints);
                     StartCoroutine(DoFade(this.playAgain, 1f));
                     ++stage;
                 }
@@ -93,7 +96,7 @@ public class EndGameUi : MonoBehaviour
             yield return null;
         }
 
-        animate();
+        Animate();
     }
 
     IEnumerator DoTranslateY(GameObject gameObject, float end)
@@ -110,6 +113,6 @@ public class EndGameUi : MonoBehaviour
             yield return null;
         }
 
-        animate();
+        Animate();
     }
 }

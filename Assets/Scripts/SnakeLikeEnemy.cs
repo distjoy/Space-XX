@@ -37,10 +37,35 @@ public class SnakeLikeEnemy : MonoBehaviour
 
     }
 
+    bool startOffScreenTrack = false;
     // Update is called once per frame
     void Update()
     {
-    
+        
+        if (!startOffScreenTrack)
+        {
+            int onScreen = 0;
+            for (int c = 0; c < transform.childCount; c++)
+                if (transform.GetChild(c).position.x >= -458f)
+                    ++onScreen;
+            if (onScreen >= transform.childCount)
+               startOffScreenTrack = true;
+        }
+
+        if (startOffScreenTrack)
+        {
+            int offscreen = 0;
+            for (int c = 0; c < transform.childCount; c++)
+            {
+                if ((transform.GetChild(c).position.x > 2090f)
+                    || (transform.GetChild(c).position.x < -765f)
+                    || (transform.GetChild(c).position.y < -1460f))
+                    ++offscreen;
+            }
+            if (transform.childCount == 0 || offscreen >= transform.childCount)
+                Destroy(transform.gameObject);
+        }
+
 
     }
 

@@ -38,7 +38,7 @@ public class ScoreAnimator : MonoBehaviour
     {
         int oldCC = 0;
         int currentPoints = 0;
-        while (currentPoints != points )
+        while (currentPoints <= points )
         {
             int newCC = currentPoints.ToString().Length;
             if (newCC > oldCC)

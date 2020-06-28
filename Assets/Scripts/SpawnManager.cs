@@ -14,6 +14,7 @@ public class SpawnManager : MonoBehaviour
     GameObject enemyType3;
 
     List<Vector2> spawnPositions = new List<Vector2>();
+    private UIManager uIManager;
     int elementWidth;
     int spawnCount;
     int typeOneInstances = 0;
@@ -29,79 +30,82 @@ public class SpawnManager : MonoBehaviour
         int screenWidth = 1740;
         Collider2D m_Collider = enemiesType1[0].GetComponent<Collider2D>();
         Renderer renderer = enemiesType1[0].GetComponent<Renderer>();
+        uIManager = GameObject.Find("Canvas").GetComponent<UIManager>();
         elementWidth = (int)Mathf.Ceil(renderer.bounds.size.x);
         spawnCount = screenWidth / elementWidth;
         setupPositions();
-       // StartCoroutine("SpawnEnemy");
+        StartCoroutine("GenerateEnemyType1");
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (endOfLevel)
+            return;
+        int type1s = GameObject.FindGameObjectsWithTag("Enemy Child").Length;
+        int type2s = GameObject.FindGameObjectsWithTag("EnemyType2").Length;
+        int type3s = GameObject.FindGameObjectsWithTag("EnemyType3").Length;
 
-    }
-
-    IEnumerator SpawnEnemy()
-    {
-
-        while (!endOfLevel)
+        if ((type1s + type2s + type3s) == 0 && (typeOneInstances + typeThreeInstances + typeTwoInstances) == 236)
+            EndGame();
+        else
         {
-
-            int type1s = GameObject.FindGameObjectsWithTag("Enemy Child").Length;
-            int type2s = GameObject.FindGameObjectsWithTag("EnemyType2").Length;
-            int type3s = GameObject.FindGameObjectsWithTag("EnemyType3").Length;
-
-            if ((type1s + type2s + type3s) == 0 && (typeOneInstances + typeThreeInstances + typeTwoInstances) == 206)
-                endGame();
-            else
-            {
-                if (typeOneInstances >= 200)
+            if (typeOneInstances >= 200)
+                if (typeThreeInstances == 0)
                 {
-                    if (type1s < 3)
-                    {
-                        if (type2s == 0)
-                            generateEnemyType2();
-                        if (type3s == 0)
-                            generateEnemyType3();
-                    }
+                    GenerateEnemyType2();
+                    GenerateEnemyType3();
                 }
-                else generateEnemyType1();
-                yield return new WaitForSeconds(0.6f);
-            }
         }
     }
 
-    void endGame()
+ 
+
+    public void EndGame()
     {
         endOfLevel = true;
         // call uiManager to endLevel successfully;
+        StopCoroutine("GenerateEnemyType3");
+        StopCoroutine("GenerateEnemyType1");
+        uIManager.EndGame();
     }
 
-    void generateEnemyType1()
+    IEnumerator GenerateEnemyType1()
     {
-        if (spawnPositions.Count > 0)
+
+        while (typeOneInstances < 200)
         {
-            GameObject currentEnemyType = enemiesType1[Random.Range(0, 2)];
-            // Debug.Log("Enemy " + currentEnemyType);
-            int randomIndex = Random.Range(0, spawnPositions.Count);
-            Vector2 pos = spawnPositions[randomIndex];
-            spawnPositions.RemoveAt(randomIndex);
-            GameObject newObject = Instantiate(currentEnemyType, new Vector3(pos.x, pos.y, 0), Quaternion.identity);
-            ++typeOneInstances;
+           if (spawnPositions.Count > 0)
+                {
+                    GameObject currentEnemyType = enemiesType1[Random.Range(0, 2)];
+                    // Debug.Log("Enemy " + currentEnemyType);
+                    int randomIndex = Random.Range(0, spawnPositions.Count);
+                    Vector2 pos = spawnPositions[randomIndex];
+                    spawnPositions.RemoveAt(randomIndex);
+                    GameObject newObject = Instantiate(currentEnemyType, new Vector3(pos.x, pos.y, 0), Quaternion.identity);
+                    ++typeOneInstances;
+                }
+            else setupPositions();
+            yield return new WaitForSeconds(1f);
         }
-        else setupPositions();
+
     }
-    void generateEnemyType2()
+    void  GenerateEnemyType2()
     {
         //center horizontal at the top
-       Instantiate(enemyType2, new Vector3(1230f, 2283.9f, 0f), Quaternion.identity);
-        typeTwoInstances += 3;
+       Instantiate(enemyType2, new Vector3(1230f, 2463f, 0f), Quaternion.identity);
+       Instantiate(enemyType2, new Vector3(138f, 2500f, 0f), Quaternion.identity);
+        typeTwoInstances += 6;
     }
-    void generateEnemyType3()
+    IEnumerator GenerateEnemyType3()
     {
         //anywhere off the screen
-        Instantiate(enemyType3, new Vector3(-880f, 1406f, 0f), Quaternion.identity);
-        typeThreeInstances += 3;
+        while (typeThreeInstances < 30)
+        {
+            Instantiate(enemyType3, new Vector3(-880f, 1406f, 0f), Quaternion.identity);
+            typeThreeInstances += 3;
+            yield return new WaitForSeconds(3f);
+        }
     }
     void setupPositions()
     {
