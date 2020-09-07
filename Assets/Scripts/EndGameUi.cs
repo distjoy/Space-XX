@@ -43,7 +43,7 @@ public class EndGameUi : MonoBehaviour
                 {
                     /*  title.transform.Translate(new Vector3(title.transform.position.x,
                           321.8f, title.transform.position.z));*/
-                    StartCoroutine(DoTranslateY(title, 1620.8f));
+                    StartCoroutine(DoTranslateY(title, 1810.8f));
                     ++stage;
                 }
                 break;
